@@ -28,3 +28,9 @@
   padding-top: 20px;
   font-family: "Courier New", Courier, monospace;
 }
+.company {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 700;
+  text-decoration: underline;
+  cursor: pointer;
+}

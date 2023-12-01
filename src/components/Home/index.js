@@ -26,7 +26,12 @@ const Home = () => {
               engineering firm to use and grow my coding skills. Talented
               software engineer specializing in graphic user interface seeking
               to apply my skills at an industry-driving software development
-              company
+              company{" "}
+              <span className="company">
+                <a href="https://www.cloudseed.io/" target="_blank">
+                  Currently working at CLOUDSEED TECHNOLOGIES.
+                </a>
+              </span>
             </p>
           </Fade>
         </div>
