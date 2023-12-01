@@ -1,0 +1,30 @@
+.bg-home {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+
+.img {
+  border-radius: 200px;
+  width: 300px;
+  margin-top: 150px;
+  margin-left: 100px;
+}
+
+.home-card {
+  display: flex;
+  justify-content: center;
+}
+.software-heading {
+  padding-top: 150px;
+  padding-left: 50px;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+}
+.home-para {
+  padding-left: 50px;
+  font-size: 18px;
+  width: 700px;
+  padding-top: 20px;
+  font-family: "Courier New", Courier, monospace;
+}

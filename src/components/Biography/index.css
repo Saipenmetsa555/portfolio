@@ -1,0 +1,56 @@
+.b-bio {
+  display: flex;
+}
+.education {
+  font-family: "Courier New", Courier, monospace;
+  padding-top: 20px;
+}
+.all-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.clz {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+.b-tech {
+  width: 500px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid yellow;
+  margin: 10px;
+  border-radius: 8px;
+}
+.sp {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+}
+.yr {
+  font-family: "Courier New", Courier, monospace;
+  background-color: yellow;
+  font-size: 14px;
+}
+.education-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 60px;
+}
+.b-tech:hover {
+  box-shadow: 3px 3px 7px #9e9e9e;
+  border: 0px;
+}
+.book {
+  width: 100px;
+}
+.bookhead-align {
+  display: flex;
+}

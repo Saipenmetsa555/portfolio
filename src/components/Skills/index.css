@@ -1,0 +1,54 @@
+.b {
+  display: flex;
+}
+.what-center {
+  text-align: center;
+  padding-top: 80px;
+  font-family: "Courier New", Courier, monospace;
+}
+.w {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.python {
+  width: 100px;
+  height: 100px;
+}
+.javascript {
+  width: 180px;
+  height: 120px;
+}
+.java {
+  width: 60px;
+  height: 100px;
+}
+.cplus {
+  width: 130px;
+  height: 130px;
+}
+.react {
+  width: 180px;
+  height: 150px;
+}
+.skill-card {
+  display: flex;
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid yellow;
+  margin: 10px;
+}
+.what-id {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+}
