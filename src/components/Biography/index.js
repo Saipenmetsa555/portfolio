@@ -33,7 +33,7 @@ const Biograph = () => {
             <Fade>
               <h1 className="clz">Krishnaveni Talent School</h1>
               <p className="sp">Secondary School Education</p>
-              <span className="yr">June 2018 - April 2022</span>
+              <span className="yr">June 2015 - April 2026</span>
             </Fade>
           </div>
         </div>
