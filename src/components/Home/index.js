@@ -19,19 +19,14 @@ const Home = () => {
           <Fade direction="down">
             <h1 className="software-heading">Software Developer</h1>
           </Fade>
-          <Fade direction="right">
+          <Fade>
             <p className="home-para">
               A Revewed Sofware Developer with One year of experience in field.
               Seeking a challenging and rewarding opportunity with a software
               engineering firm to use and grow my coding skills. Talented
               software engineer specializing in graphic user interface seeking
               to apply my skills at an industry-driving software development
-              company{" "}
-              <span className="company">
-                <a href="https://www.cloudseed.io/" target="_blank">
-                  Currently working at CLOUDSEED TECHNOLOGIES.
-                </a>
-              </span>
+              company
             </p>
           </Fade>
         </div>
